@@ -1,0 +1,7 @@
+../Core/Src/flash.c:3:6:flashUnlock	4	static
+../Core/Src/flash.c:11:6:flashLock	4	static
+../Core/Src/flash.c:30:12:flashErasePage	24	static
+../Core/Src/flash.c:64:12:flashCopyPage	32	static
+../Core/Src/flash.c:77:12:flashWrite_16	24	static
+../Core/Src/flash.c:100:12:flashWrite_32	24	static
+../Core/Src/flash.c:112:6:flashWriteMemBlock	40	static

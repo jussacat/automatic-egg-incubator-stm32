@@ -1,0 +1,7 @@
+../Core/Src/flash.c:3:6:flashUnlock	3
+../Core/Src/flash.c:11:6:flashLock	1
+../Core/Src/flash.c:30:12:flashErasePage	4
+../Core/Src/flash.c:64:12:flashCopyPage	3
+../Core/Src/flash.c:77:12:flashWrite_16	4
+../Core/Src/flash.c:100:12:flashWrite_32	2
+../Core/Src/flash.c:112:6:flashWriteMemBlock	3

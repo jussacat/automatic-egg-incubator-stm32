@@ -1,0 +1,10 @@
+../Core/Src/lcd.c:5:6:LCD_sendCmd	1
+../Core/Src/lcd.c:10:6:LCD_sendChar	1
+../Core/Src/lcd.c:15:6:LCD_sendNibble	1
+../Core/Src/lcd.c:25:6:LCD_sendByte	1
+../Core/Src/lcd.c:30:6:LCD_puts	2
+../Core/Src/lcd.c:37:6:LCD_init	1
+../Core/Src/lcd.c:46:6:LCD_clear	1
+../Core/Src/lcd.c:51:6:LCD_setCursor	2
+../Core/Src/lcd.c:57:6:LCD_scroll	2
+../Core/Src/lcd.c:63:5:LCD_printf	1

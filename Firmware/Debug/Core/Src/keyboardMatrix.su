@@ -1,0 +1,4 @@
+../Core/Src/keyboardMatrix.c:35:6:keyboardInit	56	static
+../Core/Src/keyboardMatrix.c:64:6:getKeyPressed	16	static
+../Core/Src/keyboardMatrix.c:86:13:WriteRowBits	24	static
+../Core/Src/keyboardMatrix.c:92:31:ReadColumnsBits	16	static
