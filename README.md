@@ -42,7 +42,6 @@ The user can modify the control parameters via the Keypad 4x4:
 ---
 
 ## Project Visualization
-*Sản phẩm hoàn thiện và giao diện hiển thị.*
 
 <img width="780" height="553" alt="image" src="https://github.com/user-attachments/assets/a77c73ee-0082-43ad-9cdc-097d24eaa7c9" />
 <img width="456" height="256" alt="image" src="https://github.com/user-attachments/assets/befa97a5-f115-4711-8bd6-cc950ac17ef9" />
